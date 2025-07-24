@@ -1,9 +1,5 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "framework": "vite",
-  "cleanUrls": true,
-  "ignoreCommand": "echo 'skip'",
-  "rewrites": [],
-  "redirects": []
+  "framework": "vite"
 }
